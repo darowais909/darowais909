@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owayas Ahmad Dar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000" alt="darowais909" /> </p>
+<p align="left"> <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000" alt="darowais909" style="border-radius: 10px;"/> </p>
 
-- 💬 Ask me about **Git, HTML5, CSS3,Bootstrap, JavaScript, Reactjs**
+- 💬 Ask me about **Python, JavaScript, Bootstrap, CSS, HTML, GIT**
 
 - 📫 How to reach me **darowais909@gmail.com**
 
