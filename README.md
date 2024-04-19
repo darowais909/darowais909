@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=2000" alt="darowais909" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 💬 Ask me about **Git, HTML5, CSS3,Bootstrap, JavaScript, Reactjs**
 
 - 📫 How to reach me **darowais909@gmail.com**
